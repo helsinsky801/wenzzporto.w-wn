@@ -1,0 +1,272 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(92, 59, 147);
+    color: aqua;
+}
+
+.balee {
+    background-color: rgb(0, 166, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 50px #00ddff;
+    flex-wrap: wrap;
+}
+    
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    flex: 1 0 auto;
+    color: rgb(255, 13, 13);
+}
+
+.aww {
+    flex-grow: 1;
+    min-width: 300px
+}
+
+.aww ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.aww ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    white-space: nowrap;
+}
+
+.aww ul li a:hover {
+    background-color: rgb(15, 215, 255);
+}
+
+.tarik3, .menu-togle {
+    display: none;
+}
+
+.ketot {
+    padding: 30px;
+    border-radius: 50px;
+    width: 160px;
+}
+
+.chaunima {
+    background-image: url(3cb8c06a-ef0b-41c9-b635-f96bbbd95ac1.jpg);
+    color: #00ddff;
+    padding: 34px;
+}
+
+.medehpala {
+    background-color: #00ddff;
+    color: black;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 0 2px 5px #00ddff;
+}
+
+.colpek {
+    background-color: rgb(5, 255, 255);
+    padding: 10px;
+    border-radius: 40px;
+    margin: 40px;
+    box-shadow: 5px 5px 5px 10px #0077ff;
+}
+
+.colpek h2 {
+    color: black;
+    font-size: bold;
+}
+
+.ayam {
+    padding: 40px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.sapriadi {
+    background-color: rgb(10, 194, 255);
+    border-radius: 60px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 20px #fffffffd;
+    cursor: pointer;
+}
+
+.gilebale {
+    background-color: #0077ff;
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.manokayam {
+    background-color: rgb(0, 255, 213);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.vantiaq {
+    background-color: black;
+    border-radius: 50px;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.fuqio {
+    background-color: rgb(3, 222, 80);
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 10px #0077ff;
+    margin: 50px;
+    cursor: pointer;
+}
+
+.quimaylee {
+    background-color: rgb(1, 158, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 10px #e1e3e5;
+    margin: 50px;
+    cursor: pointer;
+}
+
+.bahlil {
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 10px #06f7937e;
+    margin: 50px;
+    cursor: pointer;
+}
+
+.syahroni {
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 10px #0626f77e;
+    margin: 50px;
+    cursor: pointer;
+}
+
+.matisalai {
+    background-color: rgb(0, 0, 0);
+    border-radius: 40px;
+    padding: 12px;
+    margin: 50px;
+}
+
+.gorengayam {
+    background-color: #0088ff;
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.lodon {
+    background-color: #0077ff;
+    color: #000;
+    font-weight: bold;
+    border-radius: 50px;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.gorengayam h4 {
+    font-weight: bolder;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.lodon h4 {
+    font-weight: bolder;
+    font-size: 20px;
+    color: #fff;
+}
+
+.tahapok {
+    background-color: aqua;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 30px;
+    box-shadow: 0 2px 5px #34d802;
+    cursor: pointer;
+}
+
+.namstak {
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.acong {
+    background-color: #0077ff;
+    border-radius: 50px;
+    color: #2fff00;
+    padding: 20px;
+    margin: 30px;
+    box-shadow: 0 5px 5px 10px #00ddff8c;
+}
+
+.pepek {
+    background-color: black;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 50px;
+    padding: 10px;
+    font-family: italic;
+    box-shadow: 0 2px 5px;
+}
+
+.orang {
+    background-color: #0095ff;
+    border-radius: 50px;
+    padding: 20px;
+    color: black;
+    font-weight: 900;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin: 50px;
+}
+
+.agak-cucok {
+    background-color: #000;
+    border-radius: 50px;
+    padding: 20px;
+    font-weight: 900;
+    margin: 50px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.tah {
+    background-color: #0077ff;
+    color: #000;
+    padding: 20px;
+}
+
+footer {
+    background-color: #e1e3e5;
+    color: #000;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+}
+
+
+
